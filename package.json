@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "ctool-html-compile@~0.0.7",
+      "/Users/zhou/npm/react-com-toolkit"
+    ]
+  ],
+  "_cnpm_publish_time": 1447665326293,
+  "_from": "ctool-html-compile@>=0.0.7 <0.1.0",
+  "_id": "ctool-html-compile@0.0.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ctool-html-compile",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "email": "zhoujianlin8@gmail.com",
+    "name": "zhoujianlin"
+  },
+  "_npmVersion": "2.14.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ctool-html-compile",
+    "raw": "ctool-html-compile@~0.0.7",
+    "rawSpec": "~0.0.7",
+    "scope": null,
+    "spec": ">=0.0.7 <0.1.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.alibaba-inc.com/ctool-html-compile/download/ctool-html-compile-0.0.7.tgz",
+  "_shasum": "23783d0ef4cd7a61215c457c28d3ed4605d2c0d5",
+  "_shrinkwrap": null,
+  "_spec": "ctool-html-compile@~0.0.7",
+  "_where": "/Users/zhou/npm/react-com-toolkit",
+  "author": "",
+  "dependencies": {
+    "iconv-lite": "~0.4.13",
+    "request": "^2.55.0",
+    "through2": "^0.6.5"
+  },
+  "description": "ctool html compile 编译模块",
+  "devDependencies": {
+    "koa": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "23783d0ef4cd7a61215c457c28d3ed4605d2c0d5",
+    "tarball": "https://registry.npmjs.org/ctool-html-compile/-/ctool-html-compile-0.0.7.tgz"
+  },
+  "engines": {
+    "node": ">= 0.11.x"
+  },
+  "gitHead": "7c1e52b8ba8ea9cdfd2bbf9f11fd643f697f6e9f",
+  "keywords": [
+    "html",
+    "compile",
+    "ctool"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "zhoujianlin8@gmail.com",
+      "name": "zhoujianlin"
+    }
+  ],
+  "name": "ctool-html-compile",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:jianlin.zjl/ctool-html-compile.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.0.8"
+}
